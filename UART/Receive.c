@@ -22,7 +22,6 @@ int main(void)
 		PORTB=0XF0;
 	}
 	}
-	
 }
 char rec()
 {

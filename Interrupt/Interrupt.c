@@ -6,6 +6,7 @@ void main()
 {
 	
 	DDRD=0X00;
+	DDRB=0X00;
 	DDRC=0XFF;
 	PORTC=0XFF;
 	DDRA=0XFF;
